@@ -20,3 +20,4 @@ let person = [
     occupation : "manager"
     }
 ]
+getdetails(person);
